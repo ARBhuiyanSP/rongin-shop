@@ -1,9 +1,9 @@
-# Modern POS v3.3 - Point of Sale with Stock Management System
+# Global POS - Point of Sale with Stock Management System
 
-## Designed and Developed by ITSolution24.com
+## Designed and Developed by globalsoftpark.com
 
-## itsolution24bd@gmail.com
-## Contact +8801737346122
+## globalsoftpark@gmail.com
+## Contact +8801729714503
 
 
-## Exclusively on Evanto Codecanyon# rongin-shop
+## Exclusively on # rongin-shop
